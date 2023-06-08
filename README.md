@@ -1,2 +1,2 @@
 # MXNet Framework
-Barebones MXNet Framework with Visualizer
+Barebones Code for the Apache MXNet Deep Learning Framework with Visuzlier
